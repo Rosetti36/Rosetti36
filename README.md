@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **carlosrosetesantis@gmail.com**
 
-- ⚡ Fun fact **Creo que soy buena onda!**
+- ⚡ Creo que soy buena onda!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

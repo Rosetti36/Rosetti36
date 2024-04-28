@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, soy carlos rosete santis</h1>
-<h3 align="center">Recien egresado de la ing en sistemas computacionales,desarrolandome en el desarrollo front end , analisis de base de datos & ciberseguridad</h3>
+<h3 align="center">Recien egresado de la ingenieria en sistemas computacionales 💻, Mi camino profesional esta enfocado en el desarrollo front end , analisis de bases de datos & la ciberseguridad</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rosetti36&label=Profile%20views&color=0e75b6&style=flat" alt="rosetti36" /> </p>
 
